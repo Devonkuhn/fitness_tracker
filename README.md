@@ -15,4 +15,18 @@ The user should be able to:
   * View the combined weight of multiple exercises from the past seven workouts on the `stats` page.
 
   * View the total duration of each workout from the past seven workouts on the `stats` page.
-  
+## How to run
+
+View the [Deployed app](https://dkfitnesstracker.herokuapp.com/)
+
+or 
+
+1. Clone this repo
+
+2. open a terminal
+
+3. run `npm install`
+
+4. run `node server.js`
+
+5. visit `http://localhost:3000/`
